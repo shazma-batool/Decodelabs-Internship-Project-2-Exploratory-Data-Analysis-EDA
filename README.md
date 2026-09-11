@@ -86,23 +86,6 @@ These findings provide an initial understanding of purchasing behavior and produ
 
 ---
 
-## 📁 Project Structure
-
-```text
-project 1/
-│
-├── screenshot/
-│   ├── RAW DATA
-│   ├── CLEANED DATA
-│   └── CHANGE LOG
-│
-├── Exploratory Data Analysis(EDA).xlsx
-│
-└── README.md
-```
-
----
-
 ## 💡 Skills Demonstrated
 
 * Data Cleaning & Preparation
